@@ -1,3 +1,6 @@
+# UM-traning-center
+_🗂️ Course project for UM for POO in 2023/24_
+
 # GrupoTP-25
 
 This project is a simple implementation of a management system. It was developed as a project for the course of Programação Orientada a Objetos (POO) at Universidade do Minho.
